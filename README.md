@@ -20,5 +20,5 @@ This is portfolio project for a client who is a graphic designer.
 
 ### Desktop View
 <br>
-![alt text](https://raw.githubusercontent.com/Ne0sky/Animax/main/images/Capture.JPG)
+
 ![alt text](https://raw.githubusercontent.com/Ne0sky/Portfolio-Freelance-Project/main/src/img/Capture.JPG)
