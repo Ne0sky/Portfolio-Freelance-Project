@@ -17,6 +17,7 @@ This is portfolio project for a client who is a graphic designer.
 - [x] useState hook, useEffect hook
 - [x] React Router Dom
 - [x] Serverless email contact form
-<br>
+
 ### Desktop View
+<br>
 ![alt text](https://raw.githubusercontent.com/Ne0sky/Portfolio-Freelance-Project/main/src/img/Capture.JPG)
